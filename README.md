@@ -7,7 +7,7 @@ I code Python by night, which is what happens when there's not enough time durin
 -   👨‍🏫 Presenter
     -   Tutorial at [PyCon US 2022](https://youtu.be/gDYrFsMaxIw)
     -   Talk at [PyOhio 2022](https://www.pyohio.org/2022/program/talks/add-rss-to-my-website-with-python-yes)
-    -   Presenting at [DjangoCon US 2022](https://2022.djangocon.us/talks/why-i-didn-t-start-with-django/)
+    -   Talk at [DjangoCon US 2022](https://2022.djangocon.us/talks/why-i-didn-t-start-with-django/)
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
