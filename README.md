@@ -18,3 +18,6 @@ But right now, on an app called "I'll get to it... eventually" which is meant to
 ### Currently Learning
 - [HTMX](https://htmx.org)
 - [TailwindCSS](https://tailwindcss.com)
+
+### Also On
+<a rel="me" href="https://fosstodon.org/@pythonbynight">Mastodon</a>
