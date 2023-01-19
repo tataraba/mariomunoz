@@ -16,8 +16,7 @@ So... many... side... projects
 But right now, on an app called "I'll get to it... eventually" which is meant to track/bookmark all sorts of things you'd want to get to... eventually.
 
 ### Currently Learning
-- [HTMX](https://htmx.org)
-- [TailwindCSS](https://tailwindcss.com)
+- [Textualize](https://textual.textualize.io)
 
 ### Also On
 <a rel="me" href="https://fosstodon.org/@pythonbynight">Mastodon</a>
