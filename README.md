@@ -13,7 +13,7 @@ I code Python by night, which is what happens when there's not enough time durin
 ### Working on
 So... many... side... projects
 
-But right now, on an app called "I'll get to it... eventually" which is meant to track/bookmark all sorts of things you'd want to get to... eventually.
+But right now, redesigning my website, Python By Night. Also preparing for a talk and tutorial at PyCon US 2023.
 
 ### Currently Learning
 - [Textualize](https://textual.textualize.io)
