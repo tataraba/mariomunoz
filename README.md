@@ -12,7 +12,7 @@ I code Python by night, which is what happens when there's not enough time durin
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
-Prepping for a talk and tutorial at PyCon US 2023.
+Decompressing from PyCon 2023. Working on [PyHAT - Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
 
 ### Currently Learning
 - More [htmx](https://htmx.org)
