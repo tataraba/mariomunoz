@@ -14,7 +14,8 @@ I code Python by night, which is what happens when there's not enough time durin
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
-Decompressing from PyCon 2023. Working on [PyHAT - Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
+Working on [PyHAT - Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
+Submitting proposals here and there...
 
 ### Currently Learning
 - More [htmx](https://htmx.org)
