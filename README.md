@@ -11,6 +11,7 @@ I code Python by night, which is what happens when there's not enough time durin
     -   Talk: [Python Web Conference 2023](https://2023.pythonwebconf.com/presentations/so-much-depends-upon-a-python-apps-dependencies)
     -   Tutorial: [PyCon US 2023](https://us.pycon.org/2023/schedule/presentation/151/)
     -   Talk: [PyCon US 2023](https://us.pycon.org/2023/schedule/presentation/123/)
+    -   Talk: [North Bay Python 2023](https://youtu.be/MopeCQVSIUk)
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
@@ -19,3 +20,4 @@ Submitting proposals here and there...
 
 ### Currently Learning
 - More [htmx](https://htmx.org)
+- LangChain :eyes:
