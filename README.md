@@ -12,12 +12,14 @@ I code Python by night, which is what happens when there's not enough time durin
     -   Tutorial: [PyCon US 2023](https://us.pycon.org/2023/schedule/presentation/151/)
     -   Talk: [PyCon US 2023](https://us.pycon.org/2023/schedule/presentation/123/)
     -   Talk: [North Bay Python 2023](https://youtu.be/MopeCQVSIUk)
+    -   Video: [PyGotham TV](https://2023.pygotham.tv/talks/python2nite/)
+    -   Video: [DjangoCon US 2023](https://2023.djangocon.us/talks/back-to-the-future-of-hypermedia-in-django/)
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
 Working on [PyHAT - Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
-Submitting proposals here and there...
+Getting ready for 2024 conferenc season :eyes:
 
 ### Currently Learning
 - More [htmx](https://htmx.org)
-- LangChain :eyes:
+- [Litestar](https://litestar.dev)
