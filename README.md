@@ -17,8 +17,7 @@ I code Python by night, which is what happens when there's not enough time durin
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
-Working on [PyHAT - Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
-Getting ready for 2024 conferenc season :eyes:
+Figuring out what 2024 is all about
 
 ### Currently Learning
 - More [htmx](https://htmx.org)
