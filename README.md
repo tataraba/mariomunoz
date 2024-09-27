@@ -14,10 +14,12 @@ I code Python by night, which is what happens when there's not enough time durin
     -   Talk: [North Bay Python 2023](https://youtu.be/MopeCQVSIUk)
     -   Video: [PyGotham TV](https://2023.pygotham.tv/talks/python2nite/)
     -   Video: [DjangoCon US 2023](https://2023.djangocon.us/talks/back-to-the-future-of-hypermedia-in-django/)
+    -   Talk: [North Bay Python 2024](https://youtu.be/OgLejtlVyd8)
+    -   Keynote: DjangoCon US 2024
 -   📧 You can reach me at pythonbynight@gmail.com
 
 ### Working on
-Figuring out what 2024 is all about
+Django/htmx/Tailwind
 
 ### Currently Learning
 - More [htmx](https://htmx.org)
